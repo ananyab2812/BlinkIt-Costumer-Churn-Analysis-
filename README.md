@@ -21,7 +21,7 @@ This interactive Power BI dashboard provides insights into customer churn behavi
 
 - **Power BI** for data visualization and dashboard creation.
 - **DAX** for calculated metrics and conditional formatting.
-- **CSV** (assumed) as the data source.
+- **Excel sheet** added as the data source.
 
 ## Key Insights
 
